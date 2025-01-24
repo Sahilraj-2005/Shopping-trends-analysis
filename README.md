@@ -47,9 +47,6 @@ Edit
 ├── notebooks/  
 │   └── EDA_Shopping_Trends.ipynb # Jupyter Notebook for analysis  
 ├── images/  
-│   ├── age_distribution.png      # Snapshot of age distribution analysis  
-│   ├── gender_patterns.png       # Snapshot of gender-based purchasing patterns  
-│   └── seasonal_trends.png       # Snapshot of seasonal trends analysis  
 ├── README.md                     # Project documentation  
 └── LICENSE                       # License for the project  
 Technologies Used
